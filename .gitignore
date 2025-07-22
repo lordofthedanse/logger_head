@@ -12,3 +12,6 @@
 
 # Built gems
 *.gem
+
+# Claude settings
+.claude/
